@@ -31,9 +31,6 @@ Full-stack developer building web applications and AI-integrated products, with 
 - 💰 Sponsorship Committee, Thrill Club
 - 📜 Full Stack Web Development Certificate — Angela Yu (Udemy)
 
-## 📊 GitHub Stats
-
-![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dheuv0812&show_icons=true&theme=default)
 
 ## 📬 Connect
 

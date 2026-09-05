@@ -1,6 +1,6 @@
 # Hi, I'm Dhruv Singh 👋
 
-🎓 3rd-year Computer Engineering (Co-op) @ Toronto Metropolitan University
+🎓 3rd-year Software Engineering @ Toronto Metropolitan University
 📍 Toronto, Canada · 🔍 Open to **Co-op — Winter/Summer 2027**
 
 ## ⚡ About Me

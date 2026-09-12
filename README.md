@@ -34,9 +34,10 @@ Java Swing · Object-Oriented Programming · Design Patterns · Ant
 
 ## 🏆 Achievements & Involvement
 
+- 🥉 3rd Place, First-Year Engineering Student Design Competition — TMU (1 of 8 finalist teams, Nov 2023)
 - 🚀 Participated in 3 hackathons
 - 💰 Sponsorship Committee, Thrill Club
-- 📜 Full Stack Web Development Certificate — Angela Yu (Udemy)
+- 📜 The Complete Full-Stack Web Development Bootcamp — Dr. Angela Yu (Udemy)
 
 ## 📬 Connect
 

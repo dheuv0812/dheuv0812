@@ -67,10 +67,6 @@ Computer Engineering student (Software Engineering Option) building full-stack s
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dheuv0812&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Dhruv's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheuv0812&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 

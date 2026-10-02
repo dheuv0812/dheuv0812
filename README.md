@@ -65,10 +65,7 @@ Computer Engineering student (Software Engineering Option) building full-stack s
 
 ---
 
-## 📊 GitHub Analytics
 
-
----
 
 <p align="center">
   <b>⚡ Building products. Learning relentlessly. Shipping continuously.</b><br />
